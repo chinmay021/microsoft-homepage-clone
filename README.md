@@ -1,4 +1,4 @@
 # microsoft-homepage-clone
 static front-end clone of Microsoft's homepage using just HTML and CSS
-# working link
+# Live site
 https://microsoftcloned.netlify.app/
